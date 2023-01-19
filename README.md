@@ -12,7 +12,7 @@ Clone repo with command:
     
 Then:
 
-    $ cd patientzerosec/dist
+    $ cd patientzerosec3.0/dist
 
 Now you are in main directory where you can find all html files
 
