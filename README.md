@@ -29,6 +29,6 @@ This template is made with the intention to create cyber security cource selling
 
 * [Prime Archive](https://github.com/hitesh911/patientzerosec) `(prevoius)`
 * [Prime Archive 4.0](https://github.com/hitesh911/patientzerosec4.0)
-* [Prime Archive 5.0](https://github.com/hitesh911/patientzerosec5.0)
+* [Prime Archive 5.0](https://github.com/hitesh911/patientzero5.0)
 
 Code is free to use under MIT license.
